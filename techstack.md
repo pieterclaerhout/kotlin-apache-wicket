@@ -3,11 +3,11 @@
 ## Tech Stack
 pieterclaerhout/kotlin-apache-wicket is built on the following main stack:
 
-- [Jetty](http://www.eclipse.org/jetty/) – Web Servers
+- [Kotlin](https://kotlinlang.org/) – Languages
 - [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
 - [JUnit](http://junit.org/) – Testing Frameworks
+- [Jetty](http://www.eclipse.org/jetty/) – Web Servers
 - [SLF4J](http://slf4j.org/) – Log Management
-- [Kotlin](https://kotlinlang.org/) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -17,11 +17,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 pieterclaerhout/kotlin-apache-wicket is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1084/default_392a491b5c8bff92ffa39468611ad8f9c0ff1939.png' alt='Jetty'/> [Jetty](http://www.eclipse.org/jetty/) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
 - <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1084/default_392a491b5c8bff92ffa39468611ad8f9c0ff1939.png' alt='Jetty'/> [Jetty](http://www.eclipse.org/jetty/) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='SLF4J'/> [SLF4J](http://slf4j.org/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [pieterclaerhout/kotlin-apache-wicket](https://github.com/pieterclaerhout/kotlin-apache-wicket)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|01/05/24 <br/>Report generated|
+|7<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
